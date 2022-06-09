@@ -1,6 +1,6 @@
 # Refrex_2021  
 - There are codes used in **"Convergent evolution of antiviral machinery derived from endogenous retrovirus truncated envelope genes in multiple species"**.  
-- DOI:   
+- DOI: https://doi.org/10/1073/pnas.2114441119  
 
 
 **  **
