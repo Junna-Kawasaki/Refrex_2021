@@ -2,7 +2,6 @@
 
 **  **  
 ## Descriptions  
-<br>  
 
 ### Gag and Pol tree  
 To perform phylogenetic analyses using gag and pol genes of retroviruses, please try the program: **Refrex_phylogenetic_analysis_gag.sh** or **Refrex_phylogenetic_analysis_pol.sh**.  
@@ -38,5 +37,5 @@ bash Refrex_phylogenetic_analysis_pol.sh
 - pol_primate_20210511.fasta
 
 ### sequence accession number  
-- sequence_acc_list.txt  
-This file lists the accession number of reference sequences.  
+- Dataset_S2.tsv
+The list of accession number of reference sequences.  
