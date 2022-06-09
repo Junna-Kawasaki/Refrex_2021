@@ -1,0 +1,69 @@
+Run	species	gtf	bed_f	both_sexes_pooled	Organism	Tissue	Bioproject
+SRR1758915	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Bone Marrow	PRJNA271912
+SRR1758916	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Brain Cerebellum	PRJNA271912
+SRR1758917	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Brain Frontal Cortex	PRJNA271912
+SRR1758918	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Brain Pituitary	PRJNA271912
+SRR1758919	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Brain Temporal Lobe	PRJNA271912
+SRR1758920	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Colon	PRJNA271912
+SRR1758921	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Heart	PRJNA271912
+SRR1758922	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Kidney	PRJNA271912
+SRR1758923	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Kidney	PRJNA271912
+SRR1758924	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Liver	PRJNA271912
+SRR1758925	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Liver	PRJNA271912
+SRR1758926	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Lung	PRJNA271912
+SRR1758927	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Lung	PRJNA271912
+SRR1758928	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Lymph Node	PRJNA271912
+SRR1758929	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Skeletal Muscle	PRJNA271912
+SRR1758930	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Skeletal Muscle	PRJNA271912
+SRR1758931	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Spleen	PRJNA271912
+SRR1758932	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Spleen	PRJNA271912
+SRR1758933	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Thymus	PRJNA271912
+SRR1758934	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Bone Marrow	PRJNA271912
+SRR1758935	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Brain Cerebellum	PRJNA271912
+SRR1758936	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Brain Frontal Cortex	PRJNA271912
+SRR1758937	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Brain Pituitary	PRJNA271912
+SRR1758938	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Brain Temporal Lobe	PRJNA271912
+SRR1758939	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Colon	PRJNA271912
+SRR1758940	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Heart	PRJNA271912
+SRR1758941	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Kidney	PRJNA271912
+SRR1758942	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Liver	PRJNA271912
+SRR1758943	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Lung	PRJNA271912
+SRR1758944	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Lymph Node	PRJNA271912
+SRR1758945	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Skeletal Muscle	PRJNA271912
+SRR1758946	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Spleen	PRJNA271912
+SRR1758947	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Thymus	PRJNA271912
+SRR1758948	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Brain Cerebellum	PRJNA271912
+SRR1758949	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Brain Cerebellum	PRJNA271912
+SRR1758950	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Brain Frontal Cortex	PRJNA271912
+SRR1758951	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Brain Pituitary	PRJNA271912
+SRR1758952	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Brain Temporal Lobe	PRJNA271912
+SRR1758953	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Colon	PRJNA271912
+SRR1758954	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Heart	PRJNA271912
+SRR1758955	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Kidney	PRJNA271912
+SRR1758956	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Liver	PRJNA271912
+SRR1758957	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Lung	PRJNA271912
+SRR1758958	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Lymph Node	PRJNA271912
+SRR1758959	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Skeletal Muscle	PRJNA271912
+SRR1758960	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Spleen	PRJNA271912
+SRR1758961	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Thymus	PRJNA271912
+SRR1602559	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Bone Marrow	PRJNA261940
+SRR1602561	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Brain Cerebellum	PRJNA261940
+SRR1602562	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Brain Cerebellum	PRJNA261940
+SRR1602563	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Brain Frontal Cortex	PRJNA261940
+SRR1602564	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Brain Pituitary	PRJNA261940
+SRR1602565	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Brain Pituitary	PRJNA261940
+SRR1602566	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Heart	PRJNA261940
+SRR1602568	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Liver	PRJNA261940
+SRR1602569	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Lung	PRJNA261940
+SRR1602572	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Thymus	PRJNA261940
+SRR1602560	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Bone Marrow	PRJNA261940
+SRR1602567	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Kidney	PRJNA261940
+SRR1602570	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Skeletal Muscle	PRJNA261940
+SRR1602571	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Spleen	PRJNA261940
+SRR1602573	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	no	Macaca mulatta	Testis	PRJNA261940
+SRR1602574	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	no	Macaca mulatta	Ovaries	PRJNA261940
+SRR1602576	chimpanzee	panTro6.ncbiRefSeq.gtf	refrex/chimpanzee/genome_index/refrex_chimpanzee.bed	no	Pan troglodytes	Whole blood	PRJNA261948
+SRR1602577	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Whole blood	PRJNA261948
+SRR1602578	crab_eating_macaque	macFas5.ncbiRefSeq.gtf	refrex/crab_eating_macaque/genome_index/refrex_crab_eating_macaque.bed	no	Macaca fascicularis	Whole blood	PRJNA261948
+SRR1602582	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Whole blood	PRJNA261948
+SRR1602583	rheusus_macaque	rheMac10.ncbiRefSeq.gtf	refrex/rheusus_macaque/genome_index/refrex_rheusus_macaque.bed	yes	Macaca mulatta	Whole blood	PRJNA261948

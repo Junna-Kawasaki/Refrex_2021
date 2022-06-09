@@ -1,0 +1,26 @@
+Tool name	Version
+R	4.0.2
+ggtree	2.2.1
+ape	5.4
+dplyr	1.0.0
+tibble	3.3.0
+treeio	1.12.0
+ggplot2	3.3.2
+tidyr	1.1.0
+python	3.7.3
+seaborn	0.9.0
+matplotlib	2.2.4
+pandas	4.9
+seqkit	0.15.0
+taxonkit	0.7.2
+mafft	7.475
+iqtree	1.5.5
+tblastx	2.5.0
+blastn	2.5.0
+MEGA	X
+fasterq-dump	2.10.0
+fastp	0.20.1
+STAR	2.7.8a
+featureCounts	2.0.1
+bedtools	2.30.0
+samtools	1.11

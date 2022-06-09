@@ -1,0 +1,5 @@
+species	genome_f	gtf_f	genome	gtf	name
+chimpanzee	https://hgdownload.soe.ucsc.edu/goldenPath/panTro6/bigZips/panTro6.fa.gz	https://hgdownload.soe.ucsc.edu/goldenPath/panTro6/bigZips/genes/panTro6.ncbiRefSeq.gtf.gz	panTro6.fa	panTro6.ncbiRefSeq.gtf	Pan troglodytes
+crab_eating_macaque	https://hgdownload.soe.ucsc.edu/goldenPath/macFas5/bigZips/macFas5.fa.gz	https://hgdownload.soe.ucsc.edu/goldenPath/macFas5/bigZips/genes/macFas5.ncbiRefSeq.gtf.gz	macFas5.fa	macFas5.ncbiRefSeq.gtf	Macaca fascularis
+rheusus_macaque	https://hgdownload.soe.ucsc.edu/goldenPath/rheMac10/bigZips/rheMac10.fa.gz	https://hgdownload.soe.ucsc.edu/goldenPath/rheMac10/bigZips/genes/rheMac10.ncbiRefSeq.gtf.gz	rheMac10.fa	rheMac10.ncbiRefSeq.gtf	Macaca mulatta
+Bonobo	https://hgdownload.soe.ucsc.edu/goldenPath/panPan3/bigZips/panPan3.fa.gz	https://hgdownload.soe.ucsc.edu/goldenPath/panPan3/bigZips/genes/ncbiRefSeq.gtf.gz	panPan3.fa	ncbiRefSeq.gtf	Pan paniscus
